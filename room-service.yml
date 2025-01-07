@@ -2,4 +2,4 @@ server:
   port: 9080
 spring:
  application:
-   name: room-service-2
+   name: room-service
